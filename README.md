@@ -5,12 +5,12 @@ Input an XML file consisting of a known number of MARC records and the script wi
 
 Here is a sample of the output:
 
-Existing subject headings in record [control number for your record]:
-650   0 $a Social skills in children $v Juvenile literature. 
-650   0 $a Attitude (Psychology) $v Juvenile literature. 
-650   1 $a Attitude (Psychology) 
+	Existing subject headings in record [control number]:
+	650   0 $a Social skills in children $v Juvenile literature. 
+	650   0 $a Attitude (Psychology) $v Juvenile literature. 
+	650   1 $a Attitude (Psychology) 
 
-Potential Spanish-language subject headings for record 1633715 [control number for your record]:
-650  #7 $a Actitud (Psicología) $v Literatura juvenil. $2 qlsp
-650  #7 $a Actitud (Psicología). $2 qlsp
+	Potential Spanish-language subject headings for record 1633715 [control number]:
+	650  #7 $a Actitud (Psicología) $v Literatura juvenil. $2 qlsp
+	650  #7 $a Actitud (Psicología). $2 qlsp
 
